@@ -1,0 +1,4 @@
+interface:
+  display_name: "Downcity Local Proxy"
+  short_description: "Create a local Downcity Federation proxy backed by CLIProxyAPI."
+  default_prompt: "Create ./downcity/local-proxy with Codex and Claude Code model access through CLIProxyAPI."
