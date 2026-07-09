@@ -12,7 +12,7 @@ The skill lives in `skills/downcity-local-proxy/`. It scaffolds a local project 
 Install with the Vercel Labs `skills` CLI:
 
 ```bash
-npx skills add downcity/downcity-local-proxy-skill \
+npx skills add https://github.com/wangenius/downcity-local-proxy-skill \
   --skill downcity-local-proxy \
   --agent codex \
   --global \
